@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- ブランドの●マーク：ルビーの核 + 淡い赤のリング（.brand .mark と同じ比率） -->
+  <circle cx="50" cy="50" r="48" fill="#fbe3e2"/>
+  <circle cx="50" cy="50" r="30" fill="#d30001"/>
+</svg>
