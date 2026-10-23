@@ -1,0 +1,6 @@
+# 脆弱性のご報告はお問い合わせフォームから（項目「その他のお問い合わせ」）
+Contact: https://kaibyaku.jp/contact/
+Expires: 2027-10-24T00:00:00.000Z
+Preferred-Languages: ja, en
+Canonical: https://kaibyaku.jp/.well-known/security.txt
+Policy: https://kaibyaku.jp/security/
